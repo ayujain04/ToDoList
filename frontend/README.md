@@ -1,3 +1,9 @@
+In order for this to run you must add the "node_modules" folder that comes when a react app is created locally on your computer using the terminal command "npx create-react-app"
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
